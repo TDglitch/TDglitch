@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">☁️🐳⎈ Hey, I'm Trent DeLong <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />🤖🐧</h1>
+<h1 align="center">☁️🐳⎈ Hey, I'm Trent DeLong 🐍🤖🐧</h1>
 
 <p align="center">
   <b>Cloud & Infrastructure Engineer &nbsp;·&nbsp; San Antonio, TX</b><br/>
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 <p align="center">
