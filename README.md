@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">☁️🐳⎈ Hey, I'm Trent DeLong ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)🤖🐧</h1>
+<h1 align="center">☁️🐳⎈ Hey, I'm Trent DeLong <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />🤖🐧</h1>
 
 <p align="center">
   <b>Cloud & Infrastructure Engineer &nbsp;·&nbsp; San Antonio, TX</b><br/>
