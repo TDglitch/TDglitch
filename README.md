@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Hey, I'm Trent DeLong 👋</h1>
+<h1 align="center">☁️☁️ Hey, I'm Trent DeLong ☁️☁️</h1>
 
 <p align="center">
   <b>Cloud & Infrastructure Engineer &nbsp;·&nbsp; San Antonio, TX</b><br/>
