@@ -27,7 +27,7 @@
 
 ## 👤 About Me
 
-Cloud-focused technologist with **4+ years** of hands-on technical experience at Apple and structured, project-based training across **AWS, Linux, and infrastructure automation**. I build secure, scalable cloud systems — from multi-tier VPC architectures to serverless event-driven pipelines — with a strong commitment to **zero-trust security principles** and clean, auditable infrastructure.
+Cloud-focused technologist with structured, project-based training across **AWS, Linux, and infrastructure automation**. I build secure, scalable cloud systems — from multi-tier VPC architectures to serverless event-driven pipelines — with a strong commitment to **zero-trust security principles** and clean, auditable infrastructure.
 
 I'm drawn to privacy-first, sovereign infrastructure challenges and passionate about building systems that are reliable, observable, and built to last.
 
@@ -98,17 +98,7 @@ I'm drawn to privacy-first, sovereign infrastructure challenges and passionate a
 
 - 🟧 **AWS Cloud Practitioner** — Amazon Web Services
 - 🐧 **LFS101** — The Linux Foundation
-- ☁️ **AWS Cloud Institute** — 12-month project-based curriculum covering AWS, Linux, Terraform IaC, CI/CD, containerization, networking, and cloud security
-
----
-
-## 💼 Experience
-
-**Technical Support Specialist · Apple Inc.** — San Antonio, TX *(2021 – Present)*
-
-- Delivered Tier-1 and Tier-2 diagnostics across macOS and iOS ecosystems
-- Collaborated on complex escalations, sharpening systematic troubleshooting and root-cause analysis
-- Produced internal process documentation and contributed to operational improvements
+- ☁️ **AWS Cloud Institute** 
 
 ---
 
