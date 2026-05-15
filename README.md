@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="mailto:hiretrentdelong@gmail.com">📧 hiretrentdelong@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/trent-delong">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/trent-delong">🔗 LinkedIn</a> 
 </p>
 
 ---
