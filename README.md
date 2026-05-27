@@ -2,111 +2,112 @@
 
 ---
 
-<h1 align="center">☁️🐳⎈ Hey, I'm Trent DeLong 🐍🤖🐧</h1>
+<h1 align="center">Trent DeLong</h1>
 
 <p align="center">
-  <b>Cloud & Infrastructure Engineer &nbsp;·&nbsp; San Antonio, TX</b><br/>
+  <b>Junior Systems Administrator · Cloud & DevOps Engineer &nbsp;·&nbsp; San Antonio, TX</b><br/>
   <i>Building secure, scalable cloud systems with AWS, Linux, and DevOps automation</i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-LFS101-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Terraform-Associate%20(In%20Progress)-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Amazon-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20GitLab-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="mailto:hiretrentdelong@gmail.com">📧 hiretrentdelong@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/trent-delong">🔗 LinkedIn</a> 
+  <a href="mailto:hiretrentdelong@gmail.com">hiretrentdelong@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/trent-delong">LinkedIn</a>
 </p>
 
 ---
 
-## 👤 About Me
+## About Me
 
-Cloud-focused technologist with structured, project-based training across **AWS, Linux, and infrastructure automation**. I build secure, scalable cloud systems — from multi-tier VPC architectures to serverless event-driven pipelines — with a strong commitment to **zero-trust security principles** and clean, auditable infrastructure.
-
-I'm drawn to privacy-first, sovereign infrastructure challenges and passionate about building systems that are reliable, observable, and built to last.
+Junior System Administrator with 4+ years of hands-on technical support experience at Apple Inc. Proven expertise gained through enterprise-level, project-based learning including a zero-to-hire AWS cloud engineering program. Proficient in AWS, Linux, and IaC, with hands-on experience in CI/CD pipelines, containerization, serverless development, and cloud security. Focused on building secure, scalable, and resilient cloud-native systems.
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 | Category | Technologies |
 |---|---|
-| **AWS Services** | EC2, VPC, IAM, S3, Lambda, CloudWatch, CloudTrail, DynamoDB, SNS/SQS, RDS, Route 53, ECS Fargate |
-| **IaC & Automation** | AWS CDK (foundational), AWS CLI |
-| **DevOps & CI/CD** | Git, GitLab CI/CD, GitHub Actions |
-| **Linux & Scripting** | Ubuntu, Amazon Linux, Bash, Python, SSH, permissions, system logs |
-| **Containers** | Docker, image optimization, ECS deployments |
-| **Networking** | Subnets, routing, NAT gateways, TLS, DNS, packet tracing |
-| **Security** | IAM least-privilege, KMS, encryption, secrets management, auditing |
-| **Documentation** | Architecture diagrams, runbooks, READMEs, troubleshooting guides |
+| **Cloud Computing** | Compute, Storage, Networking, Security, Serverless, APIs |
+| **IaC & Automation** | Terraform, AWS CloudFormation |
+| **DevOps & CI/CD** | Git, GitHub Actions, GitLab CI/CD |
+| **Linux** | Ubuntu, Amazon Linux |
+| **Scripting** | Bash, Python |
+| **Containers** | Docker |
+| **Networking** | Subnets, Routing, NAT Gateways, TLS, DNS, Packet Tracing |
+| **Security** | IAM, Key Management System, 2FA, Policies |
+| **Documentation** | Architecture Diagrams, Playbooks, Runbooks, READMEs, Confluence |
 
 ---
 
-## 🚀 Featured Projects
+## Cloud & DevOps Projects
 
-### ⚡ [Serverless Stock Alerter — AWS Project](https://github.com/TDglitch/serverless-stock-alerter-AWS-project)
+### [Serverless Event-Driven Application](https://github.com/TDglitch/serverless-stock-alerter-AWS-project) — Lambda · API Gateway · DynamoDB · SNS · S3 · GitHub Actions
 
-> Fully serverless event-driven application built on AWS
-
-- Stateless API requests routed through **Lambda → DynamoDB** with **SNS** handling async downstream alerts
-- Automated packaging and deployment via **GitHub Actions** — repeatable, auditable releases
-- Designed with **encryption at rest and in transit** throughout the entire pipeline
-- **Stack:** Lambda · API Gateway · DynamoDB · SNS · S3 · GitHub Actions · Python · KMS
+- Built a responsive stock market price alert system using serverless architecture that routed API requests with asynchronous downstream events — enabling real-time analysis using cloud-native tooling.
+- Stood up an automated packaging and deployment workflow via GitHub Actions — achieving repeatable and auditable releases via standard CI/CD design principles.
+- Secured encrypted credentials at rest and in transit using key management techniques — directly applicable to data protection requirements under HIPAA and ISO 27001.
 
 ---
 
-### 🐍 [Learn Python](https://github.com/TDglitch/Learn_Python)
+### AWS Multi-Tier Production-Style Infrastructure — EC2 · RDS · VPC · ALB · IAM
 
-> Structured Python learning repository
-
-- A collection of `.py` files demonstrating core Python concepts and capabilities
-- Built as a personal reference for studying fundamentals applied across cloud automation and scripting
-- **Stack:** Python · Scripting · Automation · Core Fundamentals
+- Designed and automated a robust AWS environment with networking, compute, and database layers — built to meet standard enterprise architectural requirements.
+- Deployed RDS PostgreSQL in private subnets with IAM authentication and automated backups — mirroring secure, isolated data architecture for privacy-first, regulated platforms.
+- Enforced least-privilege IAM policies and network segmentation aligned with zero-trust security principles — in accordance with the Security Pillar of the AWS Well-Architected Framework.
 
 ---
 
-## 🏗️ Cloud Project Experience
+### Containerized Application with CI/CD Pipelines — Docker · ECS Fargate · ECR · GitLab CI/CD
 
-<details>
-<summary><b>AWS Multi-Tier Production-Style Infrastructure</b> — EC2 · RDS · VPC · ALB · IAM</summary>
-<br/>
-
-- Designed and automated a complete multi-tier AWS environment with networking, compute, and database layers
-- Deployed **RDS PostgreSQL** in private subnets with IAM authentication and automated backups
-- Enforced least-privilege IAM policies and network segmentation aligned with **zero-trust security principles**
-
-</details>
-
-<details>
-<summary><b>Containerized Application with CI/CD Pipelines</b> — Docker · ECS Fargate · ECR · GitLab CI/CD</summary>
-<br/>
-
-- Containerized an application and built end-to-end pipelines covering linting, testing, security scanning, and deployment to **ECS Fargate**
-- Implemented automated image builds pushed to **ECR** with environment-specific deployment stages
-
-</details>
+- Containerized an application and built end-to-end pipelines covering linting, testing, security scanning, and deployment to ECS Fargate.
+- Aligned deployments with enterprise operational requirements by improving release consistency, reducing manual intervention, and increasing repeatability.
 
 ---
 
-## 🎓 Certifications & Training
+## Professional Experience
 
-- 🟧 **AWS Cloud Practitioner** — Amazon Web Services
-- 🐧 **LFS101** — The Linux Foundation
-- ☁️ **AWS Cloud Institute** 
+**Technical Support Specialist** · Apple Inc. | San Antonio, TX &nbsp;&nbsp;&nbsp; *2021 – Present*
+
+- Delivered Tier-1 and Tier-2 diagnostics and technical support across macOS and iOS ecosystems — resolving hundreds of cases weekly with high accuracy and satisfaction scores.
+- Collaborated with technical specialists on complex escalations — sharpening systematic troubleshooting and root-cause analysis skills directly transferable to cloud infrastructure debugging.
+- Produced internal process documentation and contributed to operational improvements — reinforcing habits of clear, thorough technical writing aligned with README standards.
+- Developed deep understanding of end-user privacy concerns — providing direct perspective on user privacy that informs enterprise-level, privacy-first architectures.
 
 ---
 
-## 🤝 Professional Memberships
+## Certifications
 
-- 🐧 Linux Foundation
-- ☁️ San Antonio AWS Users Group
-- ⚙️ Cloud Native Computing Foundation (CNCF)
+| Certification | Status |
+|---|---|
+| AWS Cloud Practitioner | Certified — April 2026 |
+| HashiCorp Terraform Associate | In Progress — July 2026 |
+| AWS Developer – Associate | Planned — October 2026 |
+
+---
+
+## Technical Training
+
+- Mentor-led, project-based self-study curriculum covering core AWS services, Linux SysOps, scripting, IaC, CI/CD pipelines, containerization, networking, cloud security, and observability.
+- **AWS Cloud Institute** — Entry-level training program covering foundational AWS core principles and technologies.
+
+---
+
+## Professional Memberships
+
+- AWS Builders — Member
+- Linux Foundation — Member
+- Google Developer's Group, San Antonio Chapter — Member
+- San Antonio AWS Users Group — Member
 
 ---
 
