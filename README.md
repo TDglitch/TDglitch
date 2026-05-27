@@ -67,7 +67,7 @@ Junior System Administrator with 4+ years of hands-on technical support experien
 
 ---
 
-### Containerized Application with CI/CD Pipelines — Docker · ECS Fargate · ECR · GitLab CI/CD
+### [Containerized Application with CI/CD Pipelines](https://github.com/TDglitch/terraform-docker-fargate-cicd-AWSproject) — Docker · ECS Fargate · ECR · GitLab CI/CD
 
 - Containerized an application and built end-to-end pipelines covering linting, testing, security scanning, and deployment to ECS Fargate.
 - Aligned deployments with enterprise operational requirements by improving release consistency, reducing manual intervention, and increasing repeatability.
