@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="mailto:hiretrentdelong@gmail.com">hiretrentdelong@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/trent-delong">LinkedIn</a>
+  <a href="linkedin.com/in/trent-delong-aba7b0414">LinkedIn</a>
 </p>
 
 ---
